@@ -1,1 +1,17 @@
 Reserch on Fisher's Iris Data
+
+# The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper The use of multiple measurements in taxonomic problems as an example of linear discriminant analysis. (this is a straight copy so ensure to rewrite it and perhaps add suggesitons on how you will evaluate it )
+
+3 species are measured 
+-	Setosa
+-	Versicolor
+-	Virginica
+
+The data set consists of 50 samples from each of three species of Iris
+The data is measured in millimeters and organed into 5 columns which include 
+Sepal length, Sepal Width, Petal Length, Petal Width and Species 
+
+There is few graphs (visualization) you can pull from this data set – 
+Iris Species by Petal and Sepal Length 
+
+Can we organize the data into 
