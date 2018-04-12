@@ -1,6 +1,7 @@
 # Project2018 
 
 ## This respitory was created for a project which concerns Fisher's Iris Data Set.
+$ organize install
 
 ### The content of the respitory is as follow: 
 #### Background information 
