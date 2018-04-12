@@ -5,7 +5,7 @@
 ### The content of the respitory is as follow: 
 #### Background information 
 
-Ronald Fisher a British statistician and biologist published a paper in 1936 The use of multiple measurements in taxonomic problems as an example of linear discriminant analysis where he introduced the Iris flower data. The data set consist of 50 samples from each of three species Iris; *Setosa, Versicolor & Virginica*. The data is organized into five columns **Sepal length, Sepal Width, Petal Length, Petal Width and Species**.  
+In 1936 a British statistician and biologist named Ronald Fisher published a paper called 'The use of multiple measurements in taxonomic problems' where he introduced the Fisher's Iris Data Set. The data set consist of 50 samples from each of three species of Iris; *Setosa, Versicolor & Virginica*. The data is organized into five columns **Sepal length, Sepal Width, Petal Length, Petal Width and Species**.  
 
 #### References 
 - wikepedia
