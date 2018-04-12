@@ -7,7 +7,7 @@ Reserch on Fisher's Iris Data
 -	Versicolor
 -	Virginica
 
-The data set consists of 50 samples from each of three species of Iris
+The data set consists of 150 iris plants, with 50 plants from each of three species
 The data is measured in millimeters and organed into 5 columns which include 
 Sepal length, Sepal Width, Petal Length, Petal Width and Species 
 
