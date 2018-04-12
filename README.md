@@ -11,7 +11,10 @@ In 1936 a British statistician and biologist named Ronald Fisher published a pap
 Here is where you include some sample code that then you will lik to the files inside this respitory where the whole code is 
 https://github.com/datasets-io/iris 
 this readme should help you to stay on track 
-
+```
+sample code to organize data?
+or sample code to measure mean 
+```
 ##### References 
 - wikepedia
 - google
