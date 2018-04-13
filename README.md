@@ -21,3 +21,4 @@ or sample code to measure mean
 - other links
 ##### Python investigation - codes (every code will have its own file and a description inside)
 ##### Summary of the investigation 
+Explain with what code 'loop' & 'for statment' you were able to calculate the mean, max and minimum of each column. I was bale to seperate the columns into each specy identigying the ... 
