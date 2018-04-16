@@ -1,7 +1,7 @@
 # Project2018 
 
 ## *This respitory was created for a project which concerns Fisher's Iris Data Set.*
-> Fisher's Iris [data set](https://github.com/MartynaMisk/Project2018/blob/master/data/irisdata.csv)
+> Fisher's Iris [data set](https://github.com/MartynaMisk/Project2018/blob/master/data/irisdata.csv) that can be found in this respitory.
 
 ### The content of the respitory is as follow: 
 ### Background information 
