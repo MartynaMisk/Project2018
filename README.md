@@ -14,6 +14,7 @@ this readme should help you to stay on track
 ```
 sample code to organize data?
 or sample code to measure mean 
+panda
 ```
 ##### References 
 - wikepedia
