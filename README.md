@@ -7,16 +7,23 @@
 ### Background information 
 
 In 1936 a British statistician and biologist named Ronald Fisher published a paper called 'The use of multiple measurements in taxonomic problems' where he introduced the Fisher's Iris Data Set. The data set consist of 50 samples from each of three species of Iris; *Setosa, Versicolor & Virginica*. The [data](https://github.com/MartynaMisk/Project2018/blob/master/data/irisdata.csv) contains 150 records under 5 species which are organized into five columns **Sepal length, Sepal Width, Petal Length, Petal Width and Species** measured in centimetres.  
-Tihs data set is often used for testing out machine learning algorithms and visualizations graphs. In this respitory I will try to calculate the mean, max and minimum of each column and perform other analisis that I believe are interesting. 
+Tihs data set is often used for testing out machine learning algorithms and visualizations graphs. In this respitory I will try to calculate the mean, max and minimum of each column and perform other analisis that I believe are interesting.
 
-Here is where you include some sample code that then you will lik to the files inside this respitory where the whole code is 
+(Here is where you include some sample code that then you will lik to the files inside this respitory where the whole code is 
 https://github.com/datasets-io/iris 
-this readme should help you to stay on track 
+this readme should help you to stay on track DLT)
+First we calculate the mean of each column, sample code can be seen below. More information in MEAN. Snapshot of Data analysis using library numpy through programme ipython.
+```
+data = numpy.genfromtxt('data/iris.csv', delimiter=',')
+```
+Then we calclate max and mean of each column, sample code cab be seen below. More information in MAXMIN.
 ```
 sample code to organize data?
 or sample code to measure mean 
 panda
 ```
+Scatterplots for example:
+
 ##### References 
 - [Wikepedia](https://en.wikipedia.org/wiki/Iris_flower_data_set)
 - [UCI Machine Learning Repository:Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris)
