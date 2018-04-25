@@ -15,7 +15,7 @@ https://github.com/datasets-io/iris
 this readme should help you to stay on track DLT)
 First I calculate the *mean* of each column, sample code can be seen below. More information in MEAN. Snapshot of Data analysis using library numpy through programme ipython.
 ```
-data = numpy.genfromtxt('data/iris.csv', delimiter=',')
+meanfirstcolumn = numpy.mean(data[:,0])
 ```
 Then I caculate *maximum* and *meanimum* of each column, sample code cab be seen below. More information in MAXMIN.
 ```
