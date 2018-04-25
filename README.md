@@ -10,10 +10,7 @@ In 1936 a British statistician and biologist named Ronald Fisher published a pap
 
 This data set is often used for testing out machine learning algorithms and visualizations graphs. In this respitory I will try to calculate the mean, max and minimum of each column and perform other analisis that I believe are interesting.
 
-(Here is where you include some sample code that then you will lik to the files inside this respitory where the whole code is 
-https://github.com/datasets-io/iris 
-this readme should help you to stay on track DLT)
-First I calculate the *mean*, *max* and *min* of each column, sample code can be seen below. More information in folder [MEAN.py](https://github.com/MartynaMisk/Project2018/blob/master/MEAN.py). Snapshot of Data analysis using library numpy through programme ipython.
+Calculating the *mean*, *max* and *min* of each column using library **NumPy** through programme **ipython**. Sample code can be seen below, more information in folder [MEAN.py](https://github.com/MartynaMisk/Project2018/blob/master/MEAN.py).
 ```
 meanfirstcolumn = numpy.mean(data[:,0])
 minfirstcolumn = numpy.min(data[:,0])
@@ -29,6 +26,7 @@ Scatterplots for example:
 ##### References 
 - [Wikepedia](https://en.wikipedia.org/wiki/Iris_flower_data_set)
 - [UCI Machine Learning Repository:Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
 - google
 - stackflow 
 - other links
