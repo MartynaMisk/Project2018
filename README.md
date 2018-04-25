@@ -1,7 +1,7 @@
 # Project2018 
 
 ## *This respitory was created for a project which concerns Fisher's Iris Data Set.*
-> Fisher's Iris [data set](https://github.com/MartynaMisk/Project2018/blob/master/data/irisdata.csv) that can be found in this respitory.
+> Fisher's Iris data set that can be found in this [data folder](https://github.com/MartynaMisk/Project2018/blob/master/data/irisdata.csv) .
 
 ### The content of the respitory is as follow: 
 ### Background information 
@@ -13,11 +13,12 @@ This data set is often used for testing out machine learning algorithms and visu
 (Here is where you include some sample code that then you will lik to the files inside this respitory where the whole code is 
 https://github.com/datasets-io/iris 
 this readme should help you to stay on track DLT)
-First I calculate the *mean* of each column, sample code can be seen below. More information in folder [MEAN.py](https://github.com/MartynaMisk/Project2018/blob/master/MEAN.py). Snapshot of Data analysis using library numpy through programme ipython.
+First I calculate the *mean*, *max* and *min* of each column, sample code can be seen below. More information in folder [MEAN.py](https://github.com/MartynaMisk/Project2018/blob/master/MEAN.py). Snapshot of Data analysis using library numpy through programme ipython.
 ```
 meanfirstcolumn = numpy.mean(data[:,0])
+minfirstcolumn = numpy.min(data[:,0])
 ```
-Then I caculate *maximum* and *meanimum* of each column, sample code cab be seen below. More information in MAXMIN.
+Then I will use another library called panda where we will arrive at similar results but usign different programms.
 ```
 sample code to organize data?
 or sample code to measure mean 
