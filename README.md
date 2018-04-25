@@ -11,7 +11,7 @@ In 1936 a British statistician and biologist named Ronald Fisher published a pap
 This data set is often used for testing out machine learning algorithms and visualizations graphs. In this respitory I will try to calculate the mean, max and minimum of each column and perform other analisis that I believe are interesting.
 
 Calculating the *mean*, *max* and *min* of each column using library **NumPy** through programme **ipython**. Sample code can be seen below, more information in folder [MEAN.py](https://github.com/MartynaMisk/Project2018/blob/master/MEAN.py).
-```
+```ruby
 
 meanfirstcolumn = numpy.mean(data[:,0])
 minfirstcolumn = numpy.min(data[:,0])
