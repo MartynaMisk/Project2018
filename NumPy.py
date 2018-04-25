@@ -1,7 +1,7 @@
 #Martyna Miskiewicz
-# First attempt at analyzing the data using NUMPY
-# I was able to calculate mean of each column 
+# First attempt at analyzing the data using Numpy. NumPy stands for Numerical Python which contains a powerful n-dimensional array object or arrays can be also called tables.
 
+# Calculte mean of each column 
 import numpy 
 # import data into data into array 
 data = numpy.genfromtxt('data/iris.csv', delimiter=',')
