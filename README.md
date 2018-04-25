@@ -27,6 +27,7 @@ Scatterplots for example:
 - [Wikepedia](https://en.wikipedia.org/wiki/Iris_flower_data_set)
 - [UCI Machine Learning Repository:Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris)
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
+- [Numerical Python Course](https://www.python-course.eu/numpy.php)
 - google
 - stackflow 
 - other links
