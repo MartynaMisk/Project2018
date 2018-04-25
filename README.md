@@ -13,7 +13,7 @@ This data set is often used for testing out machine learning algorithms and visu
 (Here is where you include some sample code that then you will lik to the files inside this respitory where the whole code is 
 https://github.com/datasets-io/iris 
 this readme should help you to stay on track DLT)
-First I calculate the *mean* of each column, sample code can be seen below. More information in MEAN. Snapshot of Data analysis using library numpy through programme ipython.
+First I calculate the *mean* of each column, sample code can be seen below. More information in folder [MEAN.py](https://github.com/MartynaMisk/Project2018/blob/master/MEAN.py). Snapshot of Data analysis using library numpy through programme ipython.
 ```
 meanfirstcolumn = numpy.mean(data[:,0])
 ```
