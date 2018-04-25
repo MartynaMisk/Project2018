@@ -12,8 +12,8 @@ This data set is often used for testing out machine learning algorithms and visu
 
 Calculating the *mean*, *max* and *min* of each column using library **NumPy** through programme **ipython**. Sample code can be seen below, more information in folder [MEAN.py](https://github.com/MartynaMisk/Project2018/blob/master/MEAN.py).
 ```
-meanfirstcolumn = numpy.mean(data[:,0])
-minfirstcolumn = numpy.min(data[:,0])
+{meanfirstcolumn = numpy.mean(data[:,0])
+minfirstcolumn = numpy.min(data[:,0])}
 ```
 Then I will use another library called panda where we will arrive at similar results but usign different programms.
 ```
