@@ -21,5 +21,5 @@ print('The mean of the Petal Lenght column is', meanthirdcolumn)
 print('The mean of the Petal Width column is', meanfourthcolumn)
 # The answer gave me an idea of the average of each sepal and petal and its' lenght and width. 
 
-# I will try to resue the code from above however I will try to make it simpler; less repetition. Then I will use it to calculate teh maximum and minimum. 
+# I will try to resuse the code from above however I will try to make it simpler; less repetition. Then I will use it to calculate teh maximum and minimum. 
 
