@@ -1,7 +1,7 @@
 # Project2018 
 
 ## *This respitory was created for a project which concerns Fisher's Iris Data Set.*
-> Fisher's Iris data set that can be found in this [data folder](https://github.com/MartynaMisk/Project2018/blob/master/data/irisdata.csv) .
+> Fisher's Iris data set that can be found in this [data folder](https://github.com/MartynaMisk/Project2018/blob/master/data/irisdata.csv).
 
 ### The content of the respitory is as follow: 
 - Background Infromation
@@ -19,6 +19,7 @@ This data set is often used for testing out machine learning algorithms and visu
 
 ## Investigation steps
 > Investigating NumPy
+
 Calculating the *mean*, *maximum* and *minimum* of each column using library **NumPy** through programme **ipython**. Sample code can be seen below, more information in folder [NumPy.py](https://github.com/MartynaMisk/Project2018/blob/master/NumPy.py).
 ```ruby
 
