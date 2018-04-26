@@ -1,5 +1,9 @@
 #Martyna Miskiewicz
-# First attempt at analyzing the data using Numpy. NumPy stands for Numerical Python which contains a powerful n-dimensional array object or arrays can be also called tables.
+# First attempt at analyzing the data using Numpy. 
+# NumPy stands for Numerical Python which contains a powerful n-dimensional array object or arrays can be also called tables.
+# In this folder I will investigate how I can calculate the mean, maximum and minumum of ech column. This will give me measurements to understand the Iris flower in more detail.
+# I will use builed in library NumPy which is new to me. I came across errors when I have used it in ipython and then trying to using it in the python envirement. 
+# I was able to finally figure out that I need the print() code to finalize the code.
 
 # Calculte mean of each column 
 import numpy 
