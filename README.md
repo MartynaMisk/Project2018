@@ -10,19 +10,29 @@ In 1936 a British statistician and biologist named Ronald Fisher published a pap
 
 This data set is often used for testing out machine learning algorithms and visualizations graphs. In this respitory I will try to calculate the mean, max and minimum of each column and perform other analisis that I believe are interesting.
 
-Calculating the *mean*, *max* and *min* of each column using library **NumPy** through programme **ipython**. Sample code can be seen below, more information in folder [NumPy.py](https://github.com/MartynaMisk/Project2018/blob/master/NumPy.py).
+Calculating the *mean*, *maximum* and *minimum* of each column using library **NumPy** through programme **ipython**. Sample code can be seen below, more information in folder [NumPy.py](https://github.com/MartynaMisk/Project2018/blob/master/NumPy.py).
 ```ruby
 
 meanfirstcolumn = numpy.mean(data[:,0])
 minfirstcolumn = numpy.min(data[:,0])
 
 ```
-Then I will use another library called panda where we will arrive at similar results but usign different programms.
-```
+**SciPy** stands for Scientific Python. SciPy is built on NumPy and ...... will use another library called panda where we will arrive at similar results but usign different programms.
+```ruby
 sample code to organize data?
 or sample code to measure mean 
 panda
+
 ```
+I have used **Matplotlib** / Pylab to for plotting hte grpahs. Below is a snapshot of the code, more information on the code and explaantions can be found in [matplotlib.py]().
+```ruby
+sample code to organize data?
+or sample code to measure mean 
+panda
+
+```
+
+I have then investigated how I can used Pandas for structured data operations and manipulations. Below is an example. more detailed information can be found in [panda.py]
 Scatterplots for example:
 
 ##### References 
