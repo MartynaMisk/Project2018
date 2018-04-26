@@ -57,10 +57,10 @@ Scatterplots for example:
 Explain with what code 'loop' & 'for statment' you were able to calculate the mean, max and minimum of each column. I was bale to seperate the columns into each specy identigying the ... 
 
 ### References
-- [Wikepedia](https://en.wikipedia.org/wiki/Iris_flower_data_set)
-- [UCI Machine Learning Repository:Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris)
-- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
-- [Numerical Python Course](https://www.python-course.eu/numpy.php)
+- [Wikepedia](https://en.wikipedia.org/wiki/Iris_flower_data_set) Information on the background of Iris DataSet
+- [UCI Machine Learning Repository:Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris) Additional information on analysis
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/) Examples of python code and how its used to investigate dataset
+- [Numerical Python Course](https://www.python-course.eu/numpy.php) Additional study on Python and its libraries
 - [Iris Flower Painting](http://www.painters-online.co.uk/techniques-and-tips/view,botanical-painting-for-beginners-how-to-paint-an-iris-in-watercolour-with-jarnie-godwin_16492.htm)
 - google
 - stackflow 
