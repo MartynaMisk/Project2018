@@ -20,7 +20,8 @@ This data set is often used for testing out machine learning algorithms and visu
 ## Investigation steps
 > Investigating NumPy
 
-Calculating the *mean*, *maximum* and *minimum* of each column using library **NumPy** through programme **ipython**. Sample code can be seen below, more information in folder [NumPy.py](https://github.com/MartynaMisk/Project2018/blob/master/NumPy.py).
+Firstly, I will calculate the *mean*, *maximum* and *minimum* of each column using library **NumPy** through programme **ipython**. Sample code can be seen below, more information in folder [NumPy.py](https://github.com/MartynaMisk/Project2018/blob/master/NumPy.py). 
+In the folder you will find a code usign NumPy to first calculate the mean of each column, then I will investigate how I can calculate the minimum and maximum of each column. This will give me an idea of new code and also gives me insight information into the data which is not visible only by looking at.
 ```ruby
 
 meanfirstcolumn = numpy.mean(data[:,0])
