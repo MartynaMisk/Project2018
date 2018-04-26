@@ -53,10 +53,10 @@ panda
 I have then investigated how I can used Pandas for structured data operations and manipulations. Below is an example. more detailed information can be found in [panda.py]
 Scatterplots for example:
 
-##### Summary of the investigation 
+### Summary of the investigation 
 Explain with what code 'loop' & 'for statment' you were able to calculate the mean, max and minimum of each column. I was bale to seperate the columns into each specy identigying the ... 
 
-##### References
+### References
 - [Wikepedia](https://en.wikipedia.org/wiki/Iris_flower_data_set)
 - [UCI Machine Learning Repository:Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris)
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
