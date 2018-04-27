@@ -19,6 +19,7 @@ In 1936 a British statistician and biologist named Ronald Fisher published a pap
 
 This data set is often used for testing out machine learning algorithms and visualizations graphs. 
 In this Project I will try to evaluate the Iris Data Set by calculate the mean, max and minimum of each column by using different Python libraries; this can be found under '*Investigation steps*' of this README.md. I will also take a deeper investigation on creation of graphs using code and briefly evaluate my findings. I believe this project will be greatly beneficial to me as I get to explore a completely new side to programming and data analysis.
+
 ![Pic](http://www.painters-online.co.uk/ugc-1/fullnews/news/16492/9864_big.jpg)
 ## Investigation steps
 > Investigating NumPy
