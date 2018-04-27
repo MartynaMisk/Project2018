@@ -18,7 +18,7 @@
 In 1936 a British statistician and biologist named Ronald Fisher published a paper called 'The use of multiple measurements in taxonomic problems' where he introduced the Fisher's Iris Data Set. The data set consist of 50 samples from each of three species of Iris; *Setosa, Versicolor & Virginica*. The [data](https://github.com/MartynaMisk/Project2018/blob/master/data/irisdata.csv) contains 150 records under 5 species which are organized into five columns **Sepal length, Sepal Width, Petal Length, Petal Width and Species** measured in centimetres. 
 
 This data set is often used for testing out machine learning algorithms and visualizations graphs. 
-In this Project I will try to evaluate the Iris Data Set by calculate the mean, max and minimum of each column by using different Python libraries; this can be found under '*Investigation steps*' of this README.md. I will also take a deeper investigation on creation of graphs using code and briefly evaluate my findings. I believe this project will be greatly beneficial to me as I get to explore a completely new side to programming and data analysis.
+In this Project I will try to evaluate the Iris Data Set by calculate the mean, max and minimum of each column by using different Python libraries; this can be found under '*Investigation steps*' of this README.md. I will also take a deeper investigation on creation of graphs using code and briefly evaluate my findings. I believe this project will be greatly beneficial to me as I get to explore a completely new side to programming, data analysis and use Github platform which is relatively new to me.
 
 ![Pic](http://www.painters-online.co.uk/ugc-1/fullnews/news/16492/9864_big.jpg)
 ## Investigation steps
