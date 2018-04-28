@@ -1,7 +1,7 @@
 # Project2018 
 
-## *This respitory was created for a project which concerns Fisher's Iris Data Set.*
-> Fisher's Iris data set that can be found in this [data folder](https://github.com/MartynaMisk/Project2018/blob/master/data/irisdata.csv). This folder consiste .csv comma seperated value of Iris measurement.
+## *This repository was created for a project which concerns Fisher's Iris Data Set.*
+> Fisher's Iris data set that can be found in this [data folder](https://github.com/MartynaMisk/Project2018/blob/master/data/irisdata.csv). This folder consiste .csv comma-seperated values of Iris measurements.
 
 ### The content of the respitory is as follow: 
 - Background Infromation
