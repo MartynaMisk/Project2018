@@ -33,7 +33,7 @@ meanfirstcolumn = numpy.mean(data[:,0])
 minfirstcolumn = numpy.min(data[:,0])
 
 ```
-While investigating above, I have came across code that can analyze only two columns of the data.
+While investigating above, I have came across code that can analyze only two columns of the data. I can use that to quicly evaluate different sepal length and petal lenght.
 
 ```ruby
 
