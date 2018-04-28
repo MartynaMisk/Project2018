@@ -53,14 +53,15 @@ panda
 ```
 > Investigating Matplotlib
 
-I have used **Matplotlib** / Pylab to for plotting the grpahs. Below is a snapshot of the code, more information on the code and explaantions can be found in [matplotlib.py]().
+I have used **Matplotlib** to research how I can plot grpahs. Below is a snapshot of the code I have used to plot the minimum and maximum of **Sepal length, Sepal Width, Petal Length, Petal Width and Species**. More information on code in [matplotlib.py](https://github.com/MartynaMisk/Project2018/blob/master/Matplotlib.py).
 
 ```ruby
-sample code to organize data?
-or sample code to measure mean 
-panda
-
+import matplotlib.pyplot as plt
+plt.scatter(min1,max1)
+plt.xlabel('minimum label')
+plt.ylabel('maximum label')
 ```
+
 > Investigating Pandas
 
 I have then investigated how I can used Pandas for structured data operations and manipulations. I want to store data into dataframe i will use Panda. Below is an example. more detailed information can be found in [panda.py]
