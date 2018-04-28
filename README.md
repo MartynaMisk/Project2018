@@ -62,7 +62,7 @@ plt.xlabel('minimum label')
 plt.ylabel('maximum label')
 ```
 
-![plot](C:\Users\martyna\Desktop)
+![plot](screenshots/scatterplotminmax.png"scatterplot")
 
 > Investigating Pandas
 
