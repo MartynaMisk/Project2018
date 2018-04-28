@@ -53,7 +53,8 @@ panda
 ```
 > Investigating Matplotlib
 
-I have used **Matplotlib** / Pylab to for plotting hte grpahs. Below is a snapshot of the code, more information on the code and explaantions can be found in [matplotlib.py]().
+I have used **Matplotlib** / Pylab to for plotting the grpahs. Below is a snapshot of the code, more information on the code and explaantions can be found in [matplotlib.py]().
+
 ```ruby
 sample code to organize data?
 or sample code to measure mean 
