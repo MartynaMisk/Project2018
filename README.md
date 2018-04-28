@@ -28,7 +28,8 @@ Firstly, I will calculate the *mean*, *maximum* and *minimum* of each column usi
 In the folder you will find a code usign NumPy to first calculate the mean of each column, then I will investigate how I can calculate the minimum and maximum of each column. This will give me an idea of new code and also gives me insight information on analyzing the iris dataset.
 
 ```ruby
-
+import numpy 
+data = numpy.genfromtxt('data/iris.csv', delimiter=',')
 meanfirstcolumn = numpy.mean(data[:,0])
 minfirstcolumn = numpy.min(data[:,0])
 
@@ -36,7 +37,7 @@ minfirstcolumn = numpy.min(data[:,0])
 While investigating above, I have came across code that can analyze only two columns of the data. I can use that to quicly evaluate different sepal length and petal lenght.
 
 ```ruby
-
+import numpy 
 data = numpy.loadtxt('data/iris.csv', delimiter=',', usecols=[0,2])
 print(data)
 
