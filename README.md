@@ -61,9 +61,8 @@ plt.scatter(min1,max1)
 plt.xlabel('minimum label')
 plt.ylabel('maximum label')
 ```
-```
-[plot](C:\Users\martyna\Desktop)
-```
+
+![plot](C:\Users\martyna\Desktop)
 
 > Investigating Pandas
 
