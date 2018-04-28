@@ -53,13 +53,16 @@ panda
 ```
 > Investigating Matplotlib
 
-I have used **Matplotlib** to research how I can plot grpahs. Below is a snapshot of the code I have used to plot the minimum and maximum of **Sepal length, Sepal Width, Petal Length, Petal Width and Species**. More information on code in [matplotlib.py](https://github.com/MartynaMisk/Project2018/blob/master/Matplotlib.py).
+I have used **Matplotlib** to research how I can plot grpahs. Below is a snapshot of the code I have used to plot the minimum and maximum of **Sepal length, Sepal Width, Petal Length and Petal Width**. More information on code in [Matplotlib.py](https://github.com/MartynaMisk/Project2018/blob/master/Matplotlib.py).
 
 ```ruby
 import matplotlib.pyplot as plt
 plt.scatter(min1,max1)
 plt.xlabel('minimum label')
 plt.ylabel('maximum label')
+```
+```
+[plot](C:\Users\martyna\Desktop)
 ```
 
 > Investigating Pandas
