@@ -23,3 +23,16 @@ print('The mean of the Petal Width column is', meanfourthcolumn)
 
 # I will try to resuse the code from above however I will try to make it simpler; less repetition. Then I will use it to calculate teh maximum and minimum. 
 
+# to measure minimum of each column I can use below column.
+'''minall = numpy.min(data[:,0:4])''' # this was an error because it summed everything up when I needed seperate values
+
+minall = numpy.min(data[:,0]), numpy.min(data[:,1]), numpy.min(data[:,2]), numpy.min(data[:,3])
+print('The minimum of each column is', numpy.around(minall, decimals=1))
+# The result: The minimum of each column is [ 4.3  2.   1.   0.1]
+
+# without the numpy around it was giving me a more accurate decimal on the minimum column but it works good now
+
+# to calculate the maximum of each column I have used 'numpy.max(data)'
+maxall = numpy.max(data[:,0]), numpy.max(data[:,1]), numpy.max(data[:,2]), numpy.max(data[:,3])
+print('The maximum of each column is', numpy.around(maxall, decimals=1))
+#the result: The maximum of each column is [ 7.9  4.4  6.9  2.5]
