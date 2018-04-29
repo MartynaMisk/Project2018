@@ -15,7 +15,14 @@
 
 ### Background information 
 
-In 1936 a British statistician and biologist named Ronald Fisher published a paper called 'The use of multiple measurements in taxonomic problems' where he introduced the Fisher's Iris Data Set. The data set consist of 50 samples from each of three species of Iris; *Setosa, Versicolor & Virginica*. The [data](https://github.com/MartynaMisk/Project2018/blob/master/data/irisdata.csv) contains 150 records under 5 species which are organized into five columns **Sepal length, Sepal Width, Petal Length, Petal Width and Species** measured in centimetres. 
+In 1936 a British statistician and biologist named Ronald Fisher published a paper called 'The use of multiple measurements in taxonomic problems' where he introduced the Fisher's Iris Data Set. The data set consist of 50 samples from each of three species of Iris; *Setosa, Versicolor & Virginica*. The [data](https://github.com/MartynaMisk/Project2018/blob/master/data/irisdata.csv) contains 150 records under 5 species which are organized into five columns **Sepal length, Sepal Width, Petal Length, Petal Width and Species** measured in centimetres. I have tested it by applying follwoing code:
+
+```ruby
+import numpy
+data = numpy.genfromtxt('data/iris.csv', delimiter=',')
+print('Iris Dataset contains', data.shape[0],'rows and', data.shape[1], 'columns.')
+# I used [0] to first shows data for columns and then [1] to show rows only. Otherwise it would appear like this: (150,5) abd I wanted to add text.
+```
 
 This flat file(which is either .txt /.csv) dataset is often used for testing out machine learning algorithms and visualizations graphs. 
 In this Project I will try to evaluate the Iris Data Set by calculate the mean, max and minimum of each column by using different Python libraries; this can be found under '*Investigation steps*' of this README.md. I will also take a deeper investigation on creation of graphs using code and briefly evaluate my findings. I believe this project will be greatly beneficial to me as I get to explore a completely new side to programming, data analysis and use Github platform which is relatively new to me.
