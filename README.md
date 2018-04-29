@@ -62,7 +62,7 @@ plt.xlabel('minimum label')
 plt.ylabel('maximum label')
 ```
 
-![plot](![scatterplotminmax](https://user-images.githubusercontent.com/36375583/39400352-929a22aa-4b26-11e8-80c8-d733d8206d1f.PNG))
+![scatterplotminmax](https://user-images.githubusercontent.com/36375583/39400352-929a22aa-4b26-11e8-80c8-d733d8206d1f.PNG)
 
 > Investigating Pandas
 
