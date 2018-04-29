@@ -21,3 +21,5 @@ plt.scatter(min1,max1)
 plt.xlabel('minimum label')
 plt.ylabel('maximum label')
 plt.show()
+# I have decided on taking maximum and minimum as I wanted to start with simple x and y array.
+# I had few difficulties as I was not sure if this is what was expected, however I have learned that running code in python will give me a graph which I habe posted in README.md
