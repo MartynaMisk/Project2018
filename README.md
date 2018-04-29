@@ -75,15 +75,15 @@ plt.ylabel('maximum label')
 
 > Investigating Pandas
 
-I have then investigated how I can used Pandas for structured data operations and manipulations. I want to store data into dataframe hene I will use Panda. Below is an example, more detailed information can be found in [panda.py]
+I have then investigated how I can used Pandas for structured data operations and manipulations. I want to store data into dataframe hene I will use Panda. Below is an example, more detailed information can be found in [panda.py](https://github.com/MartynaMisk/Project2018/blob/master/Pandas.py)
 Scatterplots for example:
+![nameshistogram](https://user-images.githubusercontent.com/36375583/39407721-6c98946e-4bc2-11e8-8942-52e4f41bc4b9.PNG)
 
 ```ruby
+import pandas
 import matplotlib.pyplot as plt
-plt.scatter(min1,max1)
-plt.xlabel('minimum label')
-plt.ylabel('maximum label')
 ```
+
 ### Summary of the investigation 
 I have learned that Numpy is orginal python for storing numerical data, its efficient, clean and fast. Secondly, they are othen essencial for other packages. Numpy has a build in functions that allow us to easly import data as arrays. I have learned the definiton of flatfiles using Numpy and how I can structure graphs using code. I was able to calculate the mean, maximum and minimum of each column. I have first developed a simple but not so user friendly hence I have worked on simplyfing it. I was bale to seperate the columns if I wanted to only compare two columns Sepal lenght and Peta Lenght instead of having four columns. 
 
@@ -94,5 +94,5 @@ I have learned that Numpy is orginal python for storing numerical data, its effi
 - [Numerical Python Course](https://www.python-course.eu/numpy.php) Additional study on Python and its libraries
 - [Iris Flower Painting](http://www.painters-online.co.uk/techniques-and-tips/view,botanical-painting-for-beginners-how-to-paint-an-iris-in-watercolour-with-jarnie-godwin_16492.htm)
 - [Histogram code](https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342) Simple way of plotting a histogram
-- stackflow 
-- other links
+
+#THE END
