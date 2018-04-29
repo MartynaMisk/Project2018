@@ -53,7 +53,7 @@ panda
 ```
 > Investigating Matplotlib
 
-I have used **Matplotlib** to research how I can plot grpahs. Below is a snapshot of the code I have used to plot the minimum and maximum of **Sepal length, Sepal Width, Petal Length and Petal Width**. More information on code in [Matplotlib.py](https://github.com/MartynaMisk/Project2018/blob/master/Matplotlib.py).
+I have used **Matplotlib** to research how I can plot graphs. Below is a snapshot of the code I have used to plot the minimum and maximum of **Sepal length, Sepal Width, Petal Length and Petal Width**. More information on code in [Matplotlib.py](https://github.com/MartynaMisk/Project2018/blob/master/Matplotlib.py). I have included a screenshot Python has given me.
 
 ```ruby
 import matplotlib.pyplot as plt
@@ -67,12 +67,17 @@ plt.ylabel('maximum label')
 
 > Investigating Pandas
 
-I have then investigated how I can used Pandas for structured data operations and manipulations. I want to store data into dataframe i will use Panda. Below is an example. more detailed information can be found in [panda.py]
+I have then investigated how I can used Pandas for structured data operations and manipulations. I want to store data into dataframe hene I will use Panda. Below is an example, more detailed information can be found in [panda.py]
 Scatterplots for example:
 
+```ruby
+import matplotlib.pyplot as plt
+plt.scatter(min1,max1)
+plt.xlabel('minimum label')
+plt.ylabel('maximum label')
+```
 ### Summary of the investigation 
-I have learned that Numpy is orginal python for storing numerical data, its efficient, clean and fast.Secondaly they are othen essencial for other packages. Numpy has a build in functions that allow us easly import data as arrays. I have learned the definiton of flatfiles using Numpy.
-Explain with what code 'loop' & 'for statment' you were able to calculate the mean, max and minimum of each column. I was bale to seperate the columns into each specy identigying the ... 
+I have learned that Numpy is orginal python for storing numerical data, its efficient, clean and fast. Secondly, they are othen essencial for other packages. Numpy has a build in functions that allow us to easly import data as arrays. I have learned the definiton of flatfiles using Numpy and how I can structure graphs using code. I was able to calculate the mean, maximum and minimum of each column. I have first developed a simple but not so user friendly hence I have worked on simplyfing it. I was bale to seperate the columns if I wanted to only compare two columns Sepal lenght and Peta Lenght instead of having four columns. 
 
 ### References
 - [Wikepedia](https://en.wikipedia.org/wiki/Iris_flower_data_set) Information on the background of Iris DataSet
