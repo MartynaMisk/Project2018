@@ -63,6 +63,7 @@ plt.ylabel('maximum label')
 ```
 
 ![scatterplotminmax](https://user-images.githubusercontent.com/36375583/39400352-929a22aa-4b26-11e8-80c8-d733d8206d1f.PNG)
+*I have learned how to import photos from my desktop by dragging the photo to issue(header above) andd then copying the url.*
 
 > Investigating Pandas
 
