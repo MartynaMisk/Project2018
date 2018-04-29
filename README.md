@@ -7,9 +7,8 @@
 - Background Infromation
 - Investigation steps
   - Investigating *NumPy*
-   - Investigating *SciPy*
-    - Investigating *Matplotlib*
-     - Investigating *Pandas*
+   - Investigating *Matplotlib*
+    - Investigating *Pandas*
 - Summary
 - References     
 
@@ -26,7 +25,7 @@ print('Iris Dataset contains', data.shape[0],'rows and', data.shape[1], 'columns
 ```
 
 This flat file(which is either .txt /.csv) dataset is often used for testing out machine learning algorithms and visualizations graphs. 
-In this Project I will try to evaluate the Iris Data Set by calculate the mean, max and minimum of each column by using different Python libraries; this can be found under '*Investigation steps*' of this README.md. I will also take a deeper investigation on creation of graphs using code and briefly evaluate my findings. I believe this project will be greatly beneficial to me as I get to explore a completely new side to programming, data analysis and use Github platform which is relatively new to me.
+In this Project I will try to evaluate the Iris Data Set by calculate the mean, maximum and minimum of each column by using different Python libraries; this can be found under '*Investigation steps*' of this README.md. I will also reserach the creation of graphs using Matplotlib and Pandas then briefly evaluate my findings. I believe this project will be greatly beneficial to me as I get to explore a completely new side to programming, data analysis and use Github platform which is relatively new to me.
 
 ![Pic](http://www.painters-online.co.uk/ugc-1/fullnews/news/16492/9864_big.jpg)
 ## Investigation steps
@@ -50,15 +49,7 @@ data = numpy.loadtxt('data/iris.csv', delimiter=',', usecols=[0,2])
 print(data)
 
 ```
-> Investigating SciPy
 
-**SciPy** stands for Scientific Python. SciPy is built on NumPy and ...... will use another library called panda where we will arrive at similar results but usign different programms.
-```ruby
-sample code to organize data?
-or sample code to measure mean 
-panda
-
-```
 > Investigating Matplotlib
 
 I have used **Matplotlib** to research how I can plot graphs. Below is a snapshot of the code I have used to plot the minimum and maximum of **Sepal length, Sepal Width, Petal Length and Petal Width**. More information on code in [Matplotlib.py](https://github.com/MartynaMisk/Project2018/blob/master/Matplotlib.py). I have included a screenshot Python has given me.
@@ -75,8 +66,9 @@ plt.ylabel('maximum label')
 
 > Investigating Pandas
 
-I have then investigated how I can used Pandas for structured data operations and manipulations. I want to store data into dataframe hene I will use Panda. Below is an example, more detailed information can be found in [panda.py](https://github.com/MartynaMisk/Project2018/blob/master/Pandas.py)
-Scatterplots for example:
+I have then researched how I can use **Pandas** for structured data operations and manipulations. I want to store data into Histogram hene I will use Panda. Below is an example, more detailed information can be found in [panda.py](https://github.com/MartynaMisk/Project2018/blob/master/Pandas.py)
+The result of the Histogram:
+
 ![nameshistogram](https://user-images.githubusercontent.com/36375583/39407721-6c98946e-4bc2-11e8-8942-52e4f41bc4b9.PNG)
 
 ```ruby
@@ -85,7 +77,7 @@ import matplotlib.pyplot as plt
 ```
 
 ### Summary of the investigation 
-I have learned that Numpy is orginal python for storing numerical data, its efficient, clean and fast. Secondly, they are othen essencial for other packages. Numpy has a build in functions that allow us to easly import data as arrays. I have learned the definiton of flatfiles using Numpy and how I can structure graphs using code. I was able to calculate the mean, maximum and minimum of each column. I have first developed a simple but not so user friendly hence I have worked on simplyfing it. I was bale to seperate the columns if I wanted to only compare two columns Sepal lenght and Peta Lenght instead of having four columns. 
+I have learned that NumPy is libraray for Python for storing numerical data. It's efficient, clean and fast. Secondly, they are othen essencial for other packages. Numpy has a build in functions that allow us to easly import data as arrays. I have learned the definiton of flatfiles using Numpy and how I can structure graphs using code. I was able to calculate the mean, maximum and minimum of each column. I have first developed a simple but not so user friendly hence I have worked on simplyfing it. I was able to seperate the columns as I wanted to only compare two columns Sepal lenght and Peta Lenght instead of having four columns. Then, I went to learning more about Matplotlib and Pandas. I have learned that I can create a scatterplot using Matplotlib and I was able to create Histrogram using Pandas. Overall, I found this project very interesting and I got to discover new libraries for Python and how they can be used for different purposes. 
 
 ### References
 - [Wikepedia](https://en.wikipedia.org/wiki/Iris_flower_data_set) Information on the background of Iris DataSet
@@ -95,4 +87,4 @@ I have learned that Numpy is orginal python for storing numerical data, its effi
 - [Iris Flower Painting](http://www.painters-online.co.uk/techniques-and-tips/view,botanical-painting-for-beginners-how-to-paint-an-iris-in-watercolour-with-jarnie-godwin_16492.htm)
 - [Histogram code](https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342) Simple way of plotting a histogram
 
-#THE END
+##THE END
