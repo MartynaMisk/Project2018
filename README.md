@@ -21,7 +21,8 @@ In 1936 a British statistician and biologist named Ronald Fisher published a pap
 import numpy
 data = numpy.genfromtxt('data/iris.csv', delimiter=',')
 print('Iris Dataset contains', data.shape[0],'rows and', data.shape[1], 'columns.')
-# I used [0] to first shows data for columns and then [1] to show rows only. Otherwise it would appear like this: (150,5) abd I wanted to add text.
+# I used [0] to first shows data for rows and then [1] to show columns only. 
+# Otherwise it would appear like this: (150,5) and I wanted to add text.
 ```
 
 This flat file(which is either .txt /.csv) dataset is often used for testing out machine learning algorithms and visualizations graphs. 
