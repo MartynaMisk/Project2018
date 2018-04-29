@@ -93,6 +93,6 @@ I have learned that Numpy is orginal python for storing numerical data, its effi
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/) Examples of python code and how its used to investigate dataset
 - [Numerical Python Course](https://www.python-course.eu/numpy.php) Additional study on Python and its libraries
 - [Iris Flower Painting](http://www.painters-online.co.uk/techniques-and-tips/view,botanical-painting-for-beginners-how-to-paint-an-iris-in-watercolour-with-jarnie-godwin_16492.htm)
-- google
+- [Histogram code](https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342) Simple way of plotting a histogram
 - stackflow 
 - other links
